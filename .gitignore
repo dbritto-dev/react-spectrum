@@ -13,3 +13,6 @@ npm-debug.log
 public
 storybook-static
 test-reports.xml
+
+# for testing
+!packages/@react-aria/calendar/dist
